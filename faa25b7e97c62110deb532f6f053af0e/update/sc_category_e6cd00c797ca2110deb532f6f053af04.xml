@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Fantasy is a genre that uses magic and other supernatural forms as a primary element of plot, theme, and/or setting. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of technological and macabre themes, respectively, though there is a great deal of overlap between the three (collectively known as speculative fiction or science fiction/fantasy)&#13;
+&#13;
+In its broadest sense, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today, including young adults, most of whom are represented by the works below</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent display_value="Book">a07d408797ca2110deb532f6f053afd0</parent>
+        <roles/>
+        <sc_catalog display_value="Book Catalog">47ac484797ca2110deb532f6f053affd</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-11 06:53:10</sys_created_on>
+        <sys_id>e6cd00c797ca2110deb532f6f053af04</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Fantasy</sys_name>
+        <sys_package display_value="CSDM Practice" source="x_1040154_csdm_pra">faa25b7e97c62110deb532f6f053af0e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSDM Practice">faa25b7e97c62110deb532f6f053af0e</sys_scope>
+        <sys_update_name>sc_category_e6cd00c797ca2110deb532f6f053af04</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 07:09:07</sys_updated_on>
+        <title>Fantasy</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=e6cd00c797ca2110deb532f6f053af04"/>
+</record_update>

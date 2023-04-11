@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>A business (also known as enterprise or firm) is an organization engaged in the trade of goods, services, or both to consumers. Businesses are predominant in capitalist economies, where most of them are privately owned and administered to earn profit to increase the wealth of their owners. Businesses may also be not-for-profit or state-owned. A business owned by multiple individuals may be referred to as a company, although that term also has a more precise meaning.&#13;
+</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent display_value="Book">a07d408797ca2110deb532f6f053afd0</parent>
+        <roles/>
+        <sc_catalog display_value="Book Catalog">47ac484797ca2110deb532f6f053affd</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-11 06:54:23</sys_created_on>
+        <sys_id>f41e8cc797ca2110deb532f6f053af7d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Business</sys_name>
+        <sys_package display_value="CSDM Practice" source="x_1040154_csdm_pra">faa25b7e97c62110deb532f6f053af0e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSDM Practice">faa25b7e97c62110deb532f6f053af0e</sys_scope>
+        <sys_update_name>sc_category_f41e8cc797ca2110deb532f6f053af7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 07:08:25</sys_updated_on>
+        <title>Business</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=f41e8cc797ca2110deb532f6f053af7d"/>
+</record_update>
